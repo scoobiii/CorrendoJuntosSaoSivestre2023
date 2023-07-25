@@ -1,16 +1,16 @@
 # Correndo Juntos São Sivestre 2023 a 2033
-O  projeto Correndo Juntos - São Silvestre 2023, que tem como objetivo preparar 300 refugiados residentes na cidade de São Paulo para participarem da corrida de São Silvestre em dezembro de 2023! 🏃‍♂️🏃‍♀️ 
+O  projeto Correndo Juntos - São Silvestre 2023, que tem como objetivo preparar 10000 refugiados residentes na cidade de São Paulo, Brasil e mundo, para participarem da corrida de São Silvestre em dezembro de 2023! 🏃‍♂️🏃‍♀️ 
 **Refinação do texto sobre o projeto Correndo Juntos - São Silvestre 2023:**
 
 👋 Olá, pessoal da ACNUR Brasil! 
 
-Eu sou o Zeh Sobrinho e estou super animado em apresentar o projeto Correndo Juntos - São Silvestre 2023, que tem como objetivo preparar 300 refugiados residentes na cidade de São Paulo para participarem da corrida de São Silvestre em dezembro de 2023! 🏃‍♂️🏃‍♀️
+Eu sou o Zeh Sobrinho e estou super animado em apresentar o projeto Correndo Juntos - São Silvestre 2023, que tem como objetivo preparar 10000 refugiados residentes na cidade de São Paulo para participarem da corrida de São Silvestre em dezembro de 2023! 🏃‍♂️🏃‍♀️
 
 **Conceito (Maio 2023):** 
 O conceito do projeto é promover a inclusão social, o alto astral e a saúde dos participantes, preparando-os para um desafio esportivo emocionante, a São Silvestre! Além disso, buscamos arrecadar recursos para garantir a sustentabilidade do projeto e contribuir com outras ações humanitárias. 🌟💪
 
 **Início do Projeto (Agosto 2023):** 
-Em agosto, vamos dar o start nessa jornada incrível! Começaremos selecionando os 300 refugiados interessados em participar da preparação e da corrida. Vamos avaliar motivação, saúde e disponibilidade para formar esse time de atletas globais. 🌍🏅
+Em agosto, vamos dar o start nessa jornada incrível! Começaremos selecionando os 10000 refugiados interessados em participar da preparação e da corrida. Vamos avaliar motivação, saúde e disponibilidade para formar esse time de atletas globais. 🌍🏅
 
 **Patrocinadores:** 
 Para tornar esse sonho possível, contamos com a parceria de várias empresas e instituições, como os escritórios do ACNUR no Brasil, que têm sido fundamentais em nossos projetos humanitários. 🤝🌐
@@ -36,7 +36,7 @@ Além do ACNUR, contamos com o apoio de várias instituições parceiras em dife
 **Instituição Parceira - CSEM:** 
 O CSEM é uma instituição internacional que compartilha conosco a missão de valorizar o protagonismo do migrante, fomentando conhecimentos sobre migrações e deslocamentos forçados. Juntos, podemos construir um mundo mais inclusivo e acolhedor! 🌐🗺️
 
-Estamos entusiasmados com o início desse projeto em agosto de 2023 e com a oportunidade de fazer a diferença na vida de 300 refugiados! Vamos correr juntos e alcançar a linha de chegada da São Silvestre com muito alto astral e solidariedade! 🏁🏃‍♂️🏃‍♀️ #CorrendoJuntos #AltoAstral #ACNURBrasil #SãoSilvestre2023
+Estamos entusiasmados com o início desse projeto em agosto de 2023 e com a oportunidade de fazer a diferença na vida de 10000 refugiados! Vamos correr juntos e alcançar a linha de chegada da São Silvestre com muito alto astral e solidariedade! 🏁🏃‍♂️🏃‍♀️ #CorrendoJuntos #AltoAstral #ACNURBrasil #SãoSilvestre2023
 
 07 - Cardápio
 
@@ -132,10 +132,10 @@ Para suprir os diversos polos de refugiados e PopRua pelo Brasil, a equipe de pr
 
 *Setembro a Dezembro de 2023*
 
-- Ter 1000 corredores PopRua engajados no projeto.
-- Colocar pelo menos 300 atletas PopRua entre os 300 finalistas da corrida de São Silvestre.
-- Pelo menos 100 atletas PopRua chegando entre os 100 finalistas da corrida de São Silvestre.
-- Pelo menos 10 atletas PopRua alcançando o top 10 entre os finalistas da corrida de São Silvestre.
+**- Ter 10000 corredores PopRua engajados no projeto.**
+**- Colocar pelo menos 300 atletas PopRua entre os 300 finalistas da corrida de São Silvestre.**
+**- Pelo menos 100 atletas PopRua chegando entre os 100 finalistas da corrida de São Silvestre.**
+**- Pelo menos 10 atletas PopRua alcançando o top 10 entre os finalistas da corrida de São Silvestre.**
 
 O projeto Correndo Juntos - São Silvestre 2023 visa não só preparar os atletas para a corrida, mas também proporcionar inclusão social, saúde, alto astral e solidariedade, tornando essa jornada uma experiência transformadora para todos os envolvidos.
 
@@ -245,7 +245,7 @@ Cada pessoa deve adaptar o kit de treinamento às suas preferências pessoais e 
 
 # Times de Apoio Locais:
 
-Para alcançar as metas ambiciosas de ter 1000 corredores PopRua, 300 entre os 300 finalistas, 100 entre os 100 finalistas e 10 entre os 10 finalistas, é fundamental contar com uma equipe de apoio especializada. Abaixo estão algumas funções-chave na equipe de apoio local:
+Para alcançar as metas ambiciosas de ter 10000 corredores PopRua, 300 entre os 300 finalistas, 100 entre os 100 finalistas e 10 entre os 10 finalistas, é fundamental contar com uma equipe de apoio especializada. Abaixo estão algumas funções-chave na equipe de apoio local:
 
 1. **Preparadores Físicos:**
    - Responsáveis por elaborar o plano de treinamento semanal, com base nas necessidades individuais dos corredores, além de acompanhar e ajustar o treinamento de acordo com o desempenho de cada atleta. Eles podem ser ex-atletas ou profissionais com experiência na área esportiva.
