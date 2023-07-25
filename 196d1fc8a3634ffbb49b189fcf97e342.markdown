@@ -1,0 +1,609 @@
+---
+identifier: 92b3e034-7188-4ecd-8339-a80e56fdb7d4
+language: pt-BR
+title: "INFORMAÇÕES: Retirada do Kit"
+---
+
+[]{#INFORMAESRetiradadoKit.xhtml}
+
+## [INFORMAÇÕES: Retirada do Kit]{.c3} {#INFORMAESRetiradadoKit.xhtml#h.79felcsqprn3 .c66}
+
+Datas:\
+[ 27, 28 e 29 de dezembro - das 09h00 às 20h00\
+30 de dezembro - das 09h00 às 17h00 ]{.c26}
+
+[ Local:\
+]{.c20} [ Palácio das Convenções do Anhembi -- Hall Nobre\
+Av. Olavo Fontoura, 1.209, acesso pela entrada do Auditório Elis Regina
+(Santana - SP) ]{.c26}
+
+[ Para retirar o kit o atleta deverá apresentar:\
+]{.c20} [ Documento original com foto (RG, RNE, Carteira de Motorista ou
+Passaporte)\
+Sobre retirada por terceiros, consultar o item 4.1.g do Regulamento
+]{.c26}
+
+[ Importante:\
+]{.c20} [Não haverá entrega de kit no dia e após a Prova]{.c26}
+
+## []{.c15} {#INFORMAESRetiradadoKit.xhtml#h.noai0jjzi04p .c39}
+
+## []{.c15} {#INFORMAESRetiradadoKit.xhtml#h.ib8qqbcgaqda .c39}
+
+## []{.c15} {#INFORMAESRetiradadoKit.xhtml#h.jmnrejfz6lro .c39}
+
+## [Pelotão Geral]{.c3} {#INFORMAESRetiradadoKit.xhtml#h.94jbdcfurv4i .c55}
+
+[]{.c1}
+
+[]{#INFORMAESRetiradadoKit.xhtml#t.4d2e8ce16235076bf9e12a396ffe86b4448675e7}
+[]{#INFORMAESRetiradadoKit.xhtml#t.0}
+
++-----------------+-----------------+-----------------+-----------------+
+| ###             |                 |                 |                 |
+| # [A inscrição  |                 |                 |                 |
+| do Pelotão Gera |                 |                 |                 |
+| l contém 1 cami |                 |                 |                 |
+| seta, 1 medalha |                 |                 |                 |
+|  e 1 sacochila. |                 |                 |                 |
+|  Imagens ilustr |                 |                 |                 |
+| ativas. Itens s |                 |                 |                 |
+| ujeitos a alter |                 |                 |                 |
+| ações, variaçõe |                 |                 |                 |
+| s de cores e/ou |                 |                 |                 |
+|  tons, percentu |                 |                 |                 |
+| ais e adequaçõe |                 |                 |                 |
+| s técnicas. Med |                 |                 |                 |
+| alha com diâmet |                 |                 |                 |
+| ro aproximado d |                 |                 |                 |
+| e 8cm, sacochil |                 |                 |                 |
+| a em tecido sin |                 |                 |                 |
+| tético e camise |                 |                 |                 |
+| ta em poliéster |                 |                 |                 |
+| .]{.c17} {#INFO |                 |                 |                 |
+| RMAESRetiradado |                 |                 |                 |
+| Kit.xhtml#h.q5f |                 |                 |                 |
+| 10iofjf0o .c16} |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| ###             | [               | []{.c41}        | [               |
+| # [Kit Pelotão  | ![](v           |                 | ![](v           |
+| Geral - Feminin | ertopal_196d1fc | [               | ertopal_196d1fc |
+| o]{.c18} {#INFO | 8a3634ffbb49b18 | ![](v           | 8a3634ffbb49b18 |
+| RMAESRetiradado | 9fcf97e342/imag | ertopal_196d1fc | 9fcf97e342/imag |
+| Kit.xhtml#h.vhr | es/image7.png){ | 8a3634ffbb49b18 | es/image1.png){ |
+| 7sbr67gmp .c16} | style="width: 2 | 9fcf97e342/imag | style="width: 1 |
+|                 | 18.00px; height | es/image4.png){ | 10.50px; height |
+|                 | : 198.67px; mar | style="width: 1 | : 243.99px; mar |
+|                 | gin-left: 0.00p | 82.00px; height | gin-left: 0.00p |
+|                 | x; margin-top:  | : 221.24px; mar | x; margin-top:  |
+|                 | 0.00px; transfo | gin-left: 0.00p | 0.00px; transfo |
+|                 | rm: rotate(0.00 | x; margin-top:  | rm: rotate(0.00 |
+|                 | rad) translateZ | 0.00px; transfo | rad) translateZ |
+|                 | (0px); -webkit- | rm: rotate(0.00 | (0px); -webkit- |
+|                 | transform: rota | rad) translateZ | transform: rota |
+|                 | te(0.00rad) tra | (0px); -webkit- | te(0.00rad) tra |
+|                 | nslateZ(0px);"} | transform: rota | nslateZ(0px);"} |
+|                 | ]{style="o      | te(0.00rad) tra | ]{style="o      |
+|                 | verflow: hidden | nslateZ(0px);"} | verflow: hidden |
+|                 | ; display: inli | ]{style="o      | ; display: inli |
+|                 | ne-block; margi | verflow: hidden | ne-block; margi |
+|                 | n: 0.00px 0.00p | ; display: inli | n: 0.00px 0.00p |
+|                 | x; border: 0.00 | ne-block; margi | x; border: 0.00 |
+|                 | px solid #00000 | n: 0.00px 0.00p | px solid #00000 |
+|                 | 0; transform: r | x; border: 0.00 | 0; transform: r |
+|                 | otate(0.00rad)  | px solid #00000 | otate(0.00rad)  |
+|                 | translateZ(0px) | 0; transform: r | translateZ(0px) |
+|                 | ; -webkit-trans | otate(0.00rad)  | ; -webkit-trans |
+|                 | form: rotate(0. | translateZ(0px) | form: rotate(0. |
+|                 | 00rad) translat | ; -webkit-trans | 00rad) translat |
+|                 | eZ(0px); width: | form: rotate(0. | eZ(0px); width: |
+|                 |  218.00px; heig | 00rad) translat |  110.50px; heig |
+|                 | ht: 198.67px;"} | eZ(0px); width: | ht: 243.99px;"} |
+|                 | [\              |  182.00px; heig | [\              |
+|                 | ]{.c47}         | ht: 221.24px;"} | ]{.c62}         |
+|                 |                 | [\              |                 |
+|                 |                 | ]{.c62}         |                 |
++-----------------+-----------------+-----------------+-----------------+
+|                 | [S              | [Camiseta       | [Medalha]{.c21} |
+|                 | acochila]{.c21} | Feminina]{.c21} |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+#### []{.c56} {#INFORMAESRetiradadoKit.xhtml#h.pkqmurqt607n .c16 .c63}
+
+[]{.c1}
+
+[]{#INFORMAESRetiradadoKit.xhtml#t.0c525d6e40231d01f1addccbb1a79d5c1c2f5b69}
+[]{#INFORMAESRetiradadoKit.xhtml#t.1}
+
++-----------------+-----------------+-----------------+-----------------+
+| [A inscrição do |                 |                 |                 |
+| Pelotão Geral   |                 |                 |                 |
+| contém 1        |                 |                 |                 |
+| camiseta, 1     |                 |                 |                 |
+| medalha e 1     |                 |                 |                 |
+| sa              |                 |                 |                 |
+| cochila.Imagens |                 |                 |                 |
+| ilustrativas.   |                 |                 |                 |
+| Itens sujeitos  |                 |                 |                 |
+| a alterações,   |                 |                 |                 |
+| variações de    |                 |                 |                 |
+| cores e/ou      |                 |                 |                 |
+| tons,           |                 |                 |                 |
+| percentuais e   |                 |                 |                 |
+| adequações      |                 |                 |                 |
+| técnicas.       |                 |                 |                 |
+| Medalha com     |                 |                 |                 |
+| diâmetro        |                 |                 |                 |
+| aproximado de   |                 |                 |                 |
+| 8cm, sacochila  |                 |                 |                 |
+| em tecido       |                 |                 |                 |
+| sintético e     |                 |                 |                 |
+| camiseta em     |                 |                 |                 |
+| po              |                 |                 |                 |
+| liéster.]{.c65} |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| ####            | [               | [               | [               |
+|  [Kit Pelotão G | ![](v           | ![](v           | ![](v           |
+| eral - Masculin | ertopal_196d1fc | ertopal_196d1fc | ertopal_196d1fc |
+| o]{.c18} {#INFO | 8a3634ffbb49b18 | 8a3634ffbb49b18 | 8a3634ffbb49b18 |
+| RMAESRetiradado | 9fcf97e342/imag | 9fcf97e342/imag | 9fcf97e342/imag |
+| Kit.xhtml#h.528 | es/image7.png){ | es/image3.png){ | es/image1.png){ |
+| ntd1j9t99 .c16} | style="width: 2 | style="width: 2 | style="width: 1 |
+|                 | 40.00px; height | 80.50px; height | 60.00px; height |
+|                 | : 217.58px; mar | : 319.15px; mar | : 352.71px; mar |
+|                 | gin-left: 0.00p | gin-left: 0.00p | gin-left: 0.00p |
+|                 | x; margin-top:  | x; margin-top:  | x; margin-top:  |
+|                 | 0.00px; transfo | 0.00px; transfo | 0.00px; transfo |
+|                 | rm: rotate(0.00 | rm: rotate(0.00 | rm: rotate(0.00 |
+|                 | rad) translateZ | rad) translateZ | rad) translateZ |
+|                 | (0px); -webkit- | (0px); -webkit- | (0px); -webkit- |
+|                 | transform: rota | transform: rota | transform: rota |
+|                 | te(0.00rad) tra | te(0.00rad) tra | te(0.00rad) tra |
+|                 | nslateZ(0px);"} | nslateZ(0px);"} | nslateZ(0px);"} |
+|                 | ]{style="o      | ]{style="o      | ]{style="o      |
+|                 | verflow: hidden | verflow: hidden | verflow: hidden |
+|                 | ; display: inli | ; display: inli | ; display: inli |
+|                 | ne-block; margi | ne-block; margi | ne-block; margi |
+|                 | n: 0.00px 0.00p | n: 0.00px 0.00p | n: 0.00px 0.00p |
+|                 | x; border: 0.00 | x; border: 0.00 | x; border: 0.00 |
+|                 | px solid #00000 | px solid #00000 | px solid #00000 |
+|                 | 0; transform: r | 0; transform: r | 0; transform: r |
+|                 | otate(0.00rad)  | otate(0.00rad)  | otate(0.00rad)  |
+|                 | translateZ(0px) | translateZ(0px) | translateZ(0px) |
+|                 | ; -webkit-trans | ; -webkit-trans | ; -webkit-trans |
+|                 | form: rotate(0. | form: rotate(0. | form: rotate(0. |
+|                 | 00rad) translat | 00rad) translat | 00rad) translat |
+|                 | eZ(0px); width: | eZ(0px); width: | eZ(0px); width: |
+|                 |  240.00px; heig |  280.50px; heig |  160.00px; heig |
+|                 | ht: 217.58px;"} | ht: 319.15px;"} | ht: 352.71px;"} |
++-----------------+-----------------+-----------------+-----------------+
+|                 | [S              | [Camiseta       | [Medalha]{.c17} |
+|                 | acochila]{.c17} | M               |                 |
+|                 |                 | asculina]{.c17} |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+[]{.c21}
+
+## []{.c3} {#INFORMAESRetiradadoKit.xhtml#h.wbxdgin2u7v3 .c48}
+
+## [Pelotão Premium]{.c33} {#INFORMAESRetiradadoKit.xhtml#h.8a6b6oq0m9bz .c55}
+
+[]{.c1}
+
+[]{#INFORMAESRetiradadoKit.xhtml#t.dbeee11b9ed906b4735e2504f9c80f9b8f4dc2c4}
+[]{#INFORMAESRetiradadoKit.xhtml#t.2}
+
++---------+---------+---------+---------+---------+---------+---------+
+| #### [  |         |         |         |         |         |         |
+| LARGUE  |         |         |         |         |         |         |
+| NA FREN |         |         |         |         |         |         |
+| TE, PEL |         |         |         |         |         |         |
+| OTÃO PR |         |         |         |         |         |         |
+| EMIUM!  |         |         |         |         |         |         |
+| A inscr |         |         |         |         |         |         |
+| ição do |         |         |         |         |         |         |
+|  Pelotã |         |         |         |         |         |         |
+| o Premi |         |         |         |         |         |         |
+| um cont |         |         |         |         |         |         |
+| ém 1 ca |         |         |         |         |         |         |
+| miseta, |         |         |         |         |         |         |
+|  1 meda |         |         |         |         |         |         |
+| lha, 1  |         |         |         |         |         |         |
+| par de  |         |         |         |         |         |         |
+| meias d |         |         |         |         |         |         |
+| e compr |         |         |         |         |         |         |
+| essão,  |         |         |         |         |         |         |
+| 1 super |         |         |         |         |         |         |
+| sacochi |         |         |         |         |         |         |
+| la, 1 b |         |         |         |         |         |         |
+| oné, 1  |         |         |         |         |         |         |
+| corta-v |         |         |         |         |         |         |
+| ento, á |         |         |         |         |         |         |
+| rea exc |         |         |         |         |         |         |
+| lusiva  |         |         |         |         |         |         |
+| de larg |         |         |         |         |         |         |
+| ada com |         |         |         |         |         |         |
+|  número |         |         |         |         |         |         |
+|  limita |         |         |         |         |         |         |
+| do de p |         |         |         |         |         |         |
+| essoas, |         |         |         |         |         |         |
+|  contro |         |         |         |         |         |         |
+| le de a |         |         |         |         |         |         |
+| cesso e |         |         |         |         |         |         |
+| ntre a  |         |         |         |         |         |         |
+| Elite e |         |         |         |         |         |         |
+|  o Pelo |         |         |         |         |         |         |
+| tão Ger |         |         |         |         |         |         |
+| al, hid |         |         |         |         |         |         |
+| ratação |         |         |         |         |         |         |
+| , lanch |         |         |         |         |         |         |
+| e pré-P |         |         |         |         |         |         |
+| rova, s |         |         |         |         |         |         |
+| anitári |         |         |         |         |         |         |
+| o exclu |         |         |         |         |         |         |
+| sivo e  |         |         |         |         |         |         |
+| balcão  |         |         |         |         |         |         |
+| de aten |         |         |         |         |         |         |
+| dimento |         |         |         |         |         |         |
+|  prefer |         |         |         |         |         |         |
+| encial  |         |         |         |         |         |         |
+| na entr |         |         |         |         |         |         |
+| ega de  |         |         |         |         |         |         |
+| kit. Im |         |         |         |         |         |         |
+| agens i |         |         |         |         |         |         |
+| lustrat |         |         |         |         |         |         |
+| ivas. I |         |         |         |         |         |         |
+| tens su |         |         |         |         |         |         |
+| jeitos  |         |         |         |         |         |         |
+| a alter |         |         |         |         |         |         |
+| ações,  |         |         |         |         |         |         |
+| variaçõ |         |         |         |         |         |         |
+| es de c |         |         |         |         |         |         |
+| ores e/ |         |         |         |         |         |         |
+| ou tons |         |         |         |         |         |         |
+| , perce |         |         |         |         |         |         |
+| ntuais  |         |         |         |         |         |         |
+| e adequ |         |         |         |         |         |         |
+| ações t |         |         |         |         |         |         |
+| écnicas |         |         |         |         |         |         |
+| . Medal |         |         |         |         |         |         |
+| ha com  |         |         |         |         |         |         |
+| diâmetr |         |         |         |         |         |         |
+| o aprox |         |         |         |         |         |         |
+| imado d |         |         |         |         |         |         |
+| e 8cm,  |         |         |         |         |         |         |
+| supersa |         |         |         |         |         |         |
+| cochila |         |         |         |         |         |         |
+|  em tec |         |         |         |         |         |         |
+| ido sin |         |         |         |         |         |         |
+| tético, |         |         |         |         |         |         |
+|  camise |         |         |         |         |         |         |
+| ta em p |         |         |         |         |         |         |
+| oliéste |         |         |         |         |         |         |
+| r, boné |         |         |         |         |         |         |
+|  em tec |         |         |         |         |         |         |
+| ido sin |         |         |         |         |         |         |
+| tético, |         |         |         |         |         |         |
+|  meia d |         |         |         |         |         |         |
+| e compr |         |         |         |         |         |         |
+| essão e |         |         |         |         |         |         |
+| m elast |         |         |         |         |         |         |
+| ano e a |         |         |         |         |         |         |
+| lgodão  |         |         |         |         |         |         |
+| e corta |         |         |         |         |         |         |
+| -vento  |         |         |         |         |         |         |
+| em teci |         |         |         |         |         |         |
+| do sint |         |         |         |         |         |         |
+| ético.  |         |         |         |         |         |         |
+| O taman |         |         |         |         |         |         |
+| ho esco |         |         |         |         |         |         |
+| lhido p |         |         |         |         |         |         |
+| ara a c |         |         |         |         |         |         |
+| amiseta |         |         |         |         |         |         |
+|  será o |         |         |         |         |         |         |
+|  mesmo  |         |         |         |         |         |         |
+| para o  |         |         |         |         |         |         |
+| corta-v |         |         |         |         |         |         |
+| ento]{. |         |         |         |         |         |         |
+| c22} {# |         |         |         |         |         |         |
+| INFORMA |         |         |         |         |         |         |
+| ESRetir |         |         |         |         |         |         |
+| adadoKi |         |         |         |         |         |         |
+| t.xhtml |         |         |         |         |         |         |
+| #h.mek5 |         |         |         |         |         |         |
+| orx0640 |         |         |         |         |         |         |
+| o .c16} |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| #### [  | [       | [       | [       | [       | [       | [       |
+| Kit Pel | ![](ver | ![](ver | ![](ve  | ![](ve  | ![](ver | ![](ve  |
+| otão Pr | topal_1 | topal_1 | rtopal_ | rtopal_ | topal_1 | rtopal_ |
+| emium - | 96d1fc8 | 96d1fc8 | 196d1fc | 196d1fc | 96d1fc8 | 196d1fc |
+|  Femini | a3634ff | a3634ff | 8a3634f | 8a3634f | a3634ff | 8a3634f |
+| no]{.c2 | bb49b18 | bb49b18 | fbb49b1 | fbb49b1 | bb49b18 | fbb49b1 |
+| 2} {#IN | 9fcf97e | 9fcf97e | 89fcf97 | 89fcf97 | 9fcf97e | 89fcf97 |
+| FORMAES | 342/ima | 342/ima | e342/im | e342/im | 342/ima | e342/im |
+| Retirad | ges/ima | ges/ima | ages/im | ages/im | ges/ima | ages/im |
+| adoKit. | ge9.png | ge4.png | age5.pn | age8.pn | ge6.png | age1.pn |
+| xhtml#h | ){style | ){style | g){styl | g){styl | ){style | g){styl |
+| .mek5or | ="width | ="width | e="widt | e="widt | ="width | e="widt |
+| x0640o- | : 118.0 | : 141.0 | h: 141. | h: 69.6 | : 141.0 | h: 90.5 |
+| 2 .c32} | 0px; he | 0px; he | 00px; h | 8px; he | 0px; he | 0px; he |
+|         | ight: 1 | ight: 1 | eight:  | ight: 1 | ight: 1 | ight: 2 |
+| []{.c1} | 58.67px | 72.00px | 92.00px | 82.55px | 60.00px | 00.17px |
+|         | ; margi | ; margi | ; margi | ; margi | ; margi | ; margi |
+|         | n-left: | n-left: | n-left: | n-left: | n-left: | n-left: |
+|         |  0.00px |  0.00px |  0.00px |  0.00px |  0.00px |  0.00px |
+|         | ; margi | ; margi | ; margi | ; margi | ; margi | ; margi |
+|         | n-top:  | n-top:  | n-top:  | n-top:  | n-top:  | n-top:  |
+|         | 0.00px; | 0.00px; | 0.00px; | 0.00px; | 0.00px; | 0.00px; |
+|         |  transf |  transf |  transf |  transf |  transf |  transf |
+|         | orm: ro | orm: ro | orm: ro | orm: ro | orm: ro | orm: ro |
+|         | tate(0. | tate(0. | tate(0. | tate(0. | tate(0. | tate(0. |
+|         | 00rad)  | 00rad)  | 00rad)  | 00rad)  | 00rad)  | 00rad)  |
+|         | transla | transla | transla | transla | transla | transla |
+|         | teZ(0px | teZ(0px | teZ(0px | teZ(0px | teZ(0px | teZ(0px |
+|         | ); -web | ); -web | ); -web | ); -web | ); -web | ); -web |
+|         | kit-tra | kit-tra | kit-tra | kit-tra | kit-tra | kit-tra |
+|         | nsform: | nsform: | nsform: | nsform: | nsform: | nsform: |
+|         |  rotate |  rotate |  rotate |  rotate |  rotate |  rotate |
+|         | (0.00ra | (0.00ra | (0.00ra | (0.00ra | (0.00ra | (0.00ra |
+|         | d) tran | d) tran | d) tran | d) tran | d) tran | d) tran |
+|         | slateZ( | slateZ( | slateZ( | slateZ( | slateZ( | slateZ( |
+|         | 0px);"} | 0px);"} | 0px);"} | 0px);"} | 0px);"} | 0px);"} |
+|         | ]{st    | ]{st    | ]{s     | ]{s     | ]{st    | ]{s     |
+|         | yle="ov | yle="ov | tyle="o | tyle="o | yle="ov | tyle="o |
+|         | erflow: | erflow: | verflow | verflow | erflow: | verflow |
+|         |  hidden |  hidden | : hidde | : hidde |  hidden | : hidde |
+|         | ; displ | ; displ | n; disp | n; disp | ; displ | n; disp |
+|         | ay: inl | ay: inl | lay: in | lay: in | ay: inl | lay: in |
+|         | ine-blo | ine-blo | line-bl | line-bl | ine-blo | line-bl |
+|         | ck; mar | ck; mar | ock; ma | ock; ma | ck; mar | ock; ma |
+|         | gin: 0. | gin: 0. | rgin: 0 | rgin: 0 | gin: 0. | rgin: 0 |
+|         | 00px 0. | 00px 0. | .00px 0 | .00px 0 | 00px 0. | .00px 0 |
+|         | 00px; b | 00px; b | .00px;  | .00px;  | 00px; b | .00px;  |
+|         | order:  | order:  | border: | border: | order:  | border: |
+|         | 0.00px  | 0.00px  |  0.00px |  0.00px | 0.00px  |  0.00px |
+|         | solid # | solid # |  solid  |  solid  | solid # |  solid  |
+|         | 000000; | 000000; | #000000 | #000000 | 000000; | #000000 |
+|         |  transf |  transf | ; trans | ; trans |  transf | ; trans |
+|         | orm: ro | orm: ro | form: r | form: r | orm: ro | form: r |
+|         | tate(0. | tate(0. | otate(0 | otate(0 | tate(0. | otate(0 |
+|         | 00rad)  | 00rad)  | .00rad) | .00rad) | 00rad)  | .00rad) |
+|         | transla | transla |  transl |  transl | transla |  transl |
+|         | teZ(0px | teZ(0px | ateZ(0p | ateZ(0p | teZ(0px | ateZ(0p |
+|         | ); -web | ); -web | x); -we | x); -we | ); -web | x); -we |
+|         | kit-tra | kit-tra | bkit-tr | bkit-tr | kit-tra | bkit-tr |
+|         | nsform: | nsform: | ansform | ansform | nsform: | ansform |
+|         |  rotate |  rotate | : rotat | : rotat |  rotate | : rotat |
+|         | (0.00ra | (0.00ra | e(0.00r | e(0.00r | (0.00ra | e(0.00r |
+|         | d) tran | d) tran | ad) tra | ad) tra | d) tran | ad) tra |
+|         | slateZ( | slateZ( | nslateZ | nslateZ | slateZ( | nslateZ |
+|         | 0px); w | 0px); w | (0px);  | (0px);  | 0px); w | (0px);  |
+|         | idth: 1 | idth: 1 | width:  | width:  | idth: 1 | width:  |
+|         | 18.00px | 41.00px | 141.00p | 69.68px | 41.00px | 90.50px |
+|         | ; heigh | ; heigh | x; heig | ; heigh | ; heigh | ; heigh |
+|         | t: 158. | t: 172. | ht: 92. | t: 182. | t: 160. | t: 200. |
+|         | 67px;"} | 00px;"} | 00px;"} | 55px;"} | 00px;"} | 17px;"} |
++---------+---------+---------+---------+---------+---------+---------+
+|         | [       | [C      | [Boné   | [Meia   | [Cort   | [       |
+|         | Supersa | amiseta | ]{.c27} | de      | a-vento | Medalha |
+|         | cochila | F       |         | Com     | Ma      | ]{.c27} |
+|         | ]{.c27} | eminina |         | pressão | sculina |         |
+|         |         | ]{.c27} |         | ]{.c27} | ]{.c27} |         |
++---------+---------+---------+---------+---------+---------+---------+
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{.c1}
+
+[]{#INFORMAESRetiradadoKit.xhtml#t.76b13c757033a8f7a7655d1ec64851a6db881eb0}
+[]{#INFORMAESRetiradadoKit.xhtml#t.3}
+
++---------+---------+---------+---------+---------+---------+---------+
+| #### [L |         |         |         |         |         |         |
+| ARGUE N |         |         |         |         |         |         |
+| A FRENT |         |         |         |         |         |         |
+| E, PELO |         |         |         |         |         |         |
+| TÃO PRE |         |         |         |         |         |         |
+| MIUM! A |         |         |         |         |         |         |
+|  inscri |         |         |         |         |         |         |
+| ção do  |         |         |         |         |         |         |
+| Pelotão |         |         |         |         |         |         |
+|  Premiu |         |         |         |         |         |         |
+| m conté |         |         |         |         |         |         |
+| m 1 cam |         |         |         |         |         |         |
+| iseta,  |         |         |         |         |         |         |
+| 1 medal |         |         |         |         |         |         |
+| ha, 1 p |         |         |         |         |         |         |
+| ar de m |         |         |         |         |         |         |
+| eias de |         |         |         |         |         |         |
+|  compre |         |         |         |         |         |         |
+| ssão, 1 |         |         |         |         |         |         |
+|  supers |         |         |         |         |         |         |
+| acochil |         |         |         |         |         |         |
+| a, 1 bo |         |         |         |         |         |         |
+| né, 1 c |         |         |         |         |         |         |
+| orta-ve |         |         |         |         |         |         |
+| nto, ár |         |         |         |         |         |         |
+| ea excl |         |         |         |         |         |         |
+| usiva d |         |         |         |         |         |         |
+| e larga |         |         |         |         |         |         |
+| da com  |         |         |         |         |         |         |
+| número  |         |         |         |         |         |         |
+| limitad |         |         |         |         |         |         |
+| o de pe |         |         |         |         |         |         |
+| ssoas,  |         |         |         |         |         |         |
+| control |         |         |         |         |         |         |
+| e de ac |         |         |         |         |         |         |
+| esso en |         |         |         |         |         |         |
+| tre a E |         |         |         |         |         |         |
+| lite e  |         |         |         |         |         |         |
+| o Pelot |         |         |         |         |         |         |
+| ão Gera |         |         |         |         |         |         |
+| l, hidr |         |         |         |         |         |         |
+| atação, |         |         |         |         |         |         |
+|  lanche |         |         |         |         |         |         |
+|  pré-Pr |         |         |         |         |         |         |
+| ova, sa |         |         |         |         |         |         |
+| nitário |         |         |         |         |         |         |
+|  exclus |         |         |         |         |         |         |
+| ivo e b |         |         |         |         |         |         |
+| alcão d |         |         |         |         |         |         |
+| e atend |         |         |         |         |         |         |
+| imento  |         |         |         |         |         |         |
+| prefere |         |         |         |         |         |         |
+| ncial n |         |         |         |         |         |         |
+| a entre |         |         |         |         |         |         |
+| ga de k |         |         |         |         |         |         |
+| it. Ima |         |         |         |         |         |         |
+| gens il |         |         |         |         |         |         |
+| ustrati |         |         |         |         |         |         |
+| vas. It |         |         |         |         |         |         |
+| ens suj |         |         |         |         |         |         |
+| eitos a |         |         |         |         |         |         |
+|  altera |         |         |         |         |         |         |
+| ções, v |         |         |         |         |         |         |
+| ariaçõe |         |         |         |         |         |         |
+| s de co |         |         |         |         |         |         |
+| res e/o |         |         |         |         |         |         |
+| u tons, |         |         |         |         |         |         |
+|  percen |         |         |         |         |         |         |
+| tuais e |         |         |         |         |         |         |
+|  adequa |         |         |         |         |         |         |
+| ções té |         |         |         |         |         |         |
+| cnicas. |         |         |         |         |         |         |
+|  Medalh |         |         |         |         |         |         |
+| a com d |         |         |         |         |         |         |
+| iâmetro |         |         |         |         |         |         |
+|  aproxi |         |         |         |         |         |         |
+| mado de |         |         |         |         |         |         |
+|  8cm, s |         |         |         |         |         |         |
+| upersac |         |         |         |         |         |         |
+| ochila  |         |         |         |         |         |         |
+| em teci |         |         |         |         |         |         |
+| do sint |         |         |         |         |         |         |
+| ético,  |         |         |         |         |         |         |
+| camiset |         |         |         |         |         |         |
+| a em po |         |         |         |         |         |         |
+| liéster |         |         |         |         |         |         |
+| , boné  |         |         |         |         |         |         |
+| em teci |         |         |         |         |         |         |
+| do sint |         |         |         |         |         |         |
+| ético,  |         |         |         |         |         |         |
+| meia de |         |         |         |         |         |         |
+|  compre |         |         |         |         |         |         |
+| ssão em |         |         |         |         |         |         |
+|  elasta |         |         |         |         |         |         |
+| no e al |         |         |         |         |         |         |
+| godão e |         |         |         |         |         |         |
+|  corta- |         |         |         |         |         |         |
+| vento e |         |         |         |         |         |         |
+| m tecid |         |         |         |         |         |         |
+| o sinté |         |         |         |         |         |         |
+| tico. O |         |         |         |         |         |         |
+|  tamanh |         |         |         |         |         |         |
+| o escol |         |         |         |         |         |         |
+| hido pa |         |         |         |         |         |         |
+| ra a ca |         |         |         |         |         |         |
+| miseta  |         |         |         |         |         |         |
+| será o  |         |         |         |         |         |         |
+| mesmo p |         |         |         |         |         |         |
+| ara o c |         |         |         |         |         |         |
+| orta-ve |         |         |         |         |         |         |
+| nto.]{. |         |         |         |         |         |         |
+| c22} {# |         |         |         |         |         |         |
+| INFORMA |         |         |         |         |         |         |
+| ESRetir |         |         |         |         |         |         |
+| adadoKi |         |         |         |         |         |         |
+| t.xhtml |         |         |         |         |         |         |
+| #h.ajqf |         |         |         |         |         |         |
+| mhrtwjh |         |         |         |         |         |         |
+| m .c16} |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| #### [K | [       | [       | [       | [       | [       | [       |
+| it Pelo | ![](ver | ![](ver | ![](ve  | ![](ve  | ![](ver | ![](ve  |
+| tão Pre | topal_1 | topal_1 | rtopal_ | rtopal_ | topal_1 | rtopal_ |
+| mium -  | 96d1fc8 | 96d1fc8 | 196d1fc | 196d1fc | 96d1fc8 | 196d1fc |
+| Masculi | a3634ff | a3634ff | 8a3634f | 8a3634f | a3634ff | 8a3634f |
+| no]{.c2 | bb49b18 | bb49b18 | fbb49b1 | fbb49b1 | bb49b18 | fbb49b1 |
+| 2} {#IN | 9fcf97e | 9fcf97e | 89fcf97 | 89fcf97 | 9fcf97e | 89fcf97 |
+| FORMAES | 342/ima | 342/ima | e342/im | e342/im | 342/ima | e342/im |
+| Retirad | ges/ima | ges/ima | ages/im | ages/im | ges/ima | ages/im |
+| adoKit. | ge9.png | ge3.png | age5.pn | age8.pn | ge2.png | age1.pn |
+| xhtml#h | ){style | ){style | g){styl | g){styl | ){style | g){styl |
+| .ajqfmh | ="width | ="width | e="widt | e="widt | ="width | e="widt |
+| rtwjhm- | : 118.0 | : 118.0 | h: 118. | h: 79.0 | : 118.0 | h: 94.4 |
+| 3 .c32} | 0px; he | 0px; he | 00px; h | 0px; he | 0px; he | 2px; he |
+|         | ight: 1 | ight: 1 | eight:  | ight: 2 | ight: 1 | ight: 2 |
+|         | 58.67px | 34.67px | 77.33px | 06.87px | 48.00px | 08.84px |
+|         | ; margi | ; margi | ; margi | ; margi | ; margi | ; margi |
+|         | n-left: | n-left: | n-left: | n-left: | n-left: | n-left: |
+|         |  0.00px |  0.00px |  0.00px |  0.00px |  0.00px |  0.00px |
+|         | ; margi | ; margi | ; margi | ; margi | ; margi | ; margi |
+|         | n-top:  | n-top:  | n-top:  | n-top:  | n-top:  | n-top:  |
+|         | 0.00px; | 0.00px; | 0.00px; | 0.00px; | 0.00px; | 0.00px; |
+|         |  transf |  transf |  transf |  transf |  transf |  transf |
+|         | orm: ro | orm: ro | orm: ro | orm: ro | orm: ro | orm: ro |
+|         | tate(0. | tate(0. | tate(0. | tate(0. | tate(0. | tate(0. |
+|         | 00rad)  | 00rad)  | 00rad)  | 00rad)  | 00rad)  | 00rad)  |
+|         | transla | transla | transla | transla | transla | transla |
+|         | teZ(0px | teZ(0px | teZ(0px | teZ(0px | teZ(0px | teZ(0px |
+|         | ); -web | ); -web | ); -web | ); -web | ); -web | ); -web |
+|         | kit-tra | kit-tra | kit-tra | kit-tra | kit-tra | kit-tra |
+|         | nsform: | nsform: | nsform: | nsform: | nsform: | nsform: |
+|         |  rotate |  rotate |  rotate |  rotate |  rotate |  rotate |
+|         | (0.00ra | (0.00ra | (0.00ra | (0.00ra | (0.00ra | (0.00ra |
+|         | d) tran | d) tran | d) tran | d) tran | d) tran | d) tran |
+|         | slateZ( | slateZ( | slateZ( | slateZ( | slateZ( | slateZ( |
+|         | 0px);"} | 0px);"} | 0px);"} | 0px);"} | 0px);"} | 0px);"} |
+|         | ]{st    | ]{st    | ]{s     | ]{s     | ]{st    | ]{s     |
+|         | yle="ov | yle="ov | tyle="o | tyle="o | yle="ov | tyle="o |
+|         | erflow: | erflow: | verflow | verflow | erflow: | verflow |
+|         |  hidden |  hidden | : hidde | : hidde |  hidden | : hidde |
+|         | ; displ | ; displ | n; disp | n; disp | ; displ | n; disp |
+|         | ay: inl | ay: inl | lay: in | lay: in | ay: inl | lay: in |
+|         | ine-blo | ine-blo | line-bl | line-bl | ine-blo | line-bl |
+|         | ck; mar | ck; mar | ock; ma | ock; ma | ck; mar | ock; ma |
+|         | gin: 0. | gin: 0. | rgin: 0 | rgin: 0 | gin: 0. | rgin: 0 |
+|         | 00px 0. | 00px 0. | .00px 0 | .00px 0 | 00px 0. | .00px 0 |
+|         | 00px; b | 00px; b | .00px;  | .00px;  | 00px; b | .00px;  |
+|         | order:  | order:  | border: | border: | order:  | border: |
+|         | 0.00px  | 0.00px  |  0.00px |  0.00px | 0.00px  |  0.00px |
+|         | solid # | solid # |  solid  |  solid  | solid # |  solid  |
+|         | 000000; | 000000; | #000000 | #000000 | 000000; | #000000 |
+|         |  transf |  transf | ; trans | ; trans |  transf | ; trans |
+|         | orm: ro | orm: ro | form: r | form: r | orm: ro | form: r |
+|         | tate(0. | tate(0. | otate(0 | otate(0 | tate(0. | otate(0 |
+|         | 00rad)  | 00rad)  | .00rad) | .00rad) | 00rad)  | .00rad) |
+|         | transla | transla |  transl |  transl | transla |  transl |
+|         | teZ(0px | teZ(0px | ateZ(0p | ateZ(0p | teZ(0px | ateZ(0p |
+|         | ); -web | ); -web | x); -we | x); -we | ); -web | x); -we |
+|         | kit-tra | kit-tra | bkit-tr | bkit-tr | kit-tra | bkit-tr |
+|         | nsform: | nsform: | ansform | ansform | nsform: | ansform |
+|         |  rotate |  rotate | : rotat | : rotat |  rotate | : rotat |
+|         | (0.00ra | (0.00ra | e(0.00r | e(0.00r | (0.00ra | e(0.00r |
+|         | d) tran | d) tran | ad) tra | ad) tra | d) tran | ad) tra |
+|         | slateZ( | slateZ( | nslateZ | nslateZ | slateZ( | nslateZ |
+|         | 0px); w | 0px); w | (0px);  | (0px);  | 0px); w | (0px);  |
+|         | idth: 1 | idth: 1 | width:  | width:  | idth: 1 | width:  |
+|         | 18.00px | 18.00px | 118.00p | 79.00px | 18.00px | 94.42px |
+|         | ; heigh | ; heigh | x; heig | ; heigh | ; heigh | ; heigh |
+|         | t: 158. | t: 134. | ht: 77. | t: 206. | t: 148. | t: 208. |
+|         | 67px;"} | 67px;"} | 33px;"} | 87px;"} | 00px;"} | 84px;"} |
++---------+---------+---------+---------+---------+---------+---------+
+|         | [       | [C      | [Boné   | [Meia   | [Cort   | [       |
+|         | Supersa | amiseta | ]{.c11} | de      | a-vento | Medalha |
+|         | cochila | Ma      |         | Com     | Ma      | ]{.c11} |
+|         | ]{.c11} | sculina |         | pressão | sculina |         |
+|         |         | ]{.c11} |         | ]{.c11} | ]{.c11} |         |
++---------+---------+---------+---------+---------+---------+---------+
+
+[]{.c1}
