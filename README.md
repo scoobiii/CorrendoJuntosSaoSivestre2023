@@ -44,4 +44,140 @@ calendario semanal de agosto a dezembro de 2023
 
 🍽️ **Cardápio Diário para os Atletas PopRua - População em Situação de Rua**
 
-👋 Olá, atletas PopRua! Para garantir o alto astral e a energia necessária para o nosso projeto Correndo Juntos - São Silvestre 2023, preparamos um cardápio saudável e nutritivo especialmente para vocês. Vamos cuidar da alimentação para que todos estejam bem preparados para o desafio esportivo emocionante!
+#👋 Olá, atletas PopRua! 
+
+Para garantir o alto astral e a energia necessária para o nosso projeto **Correndo Juntos - São Silvestre 2023**, preparamos um cardápio saudável e nutritivo especialmente para vocês. Vamos cuidar da alimentação para que todos estejam bem preparados para o desafio esportivo emocionante!
+
+**Plano de Treinamento Semanal:**
+
+*Setembro a Dezembro de 2023*
+
+**Segunda-feira:**
+- Manhã: Treino em grupo - Corrida leve e alongamento.
+- Tarde: Roteiro cultural em São Paulo - Conhecendo a cidade e sua cultura.
+
+**Terça-feira:**
+- Manhã: Treino em grupo - Exercícios de resistência e fortalecimento.
+- Tarde: Descanso e recuperação - Sessões de massagem e relaxamento.
+
+**Quarta-feira:**
+- Manhã: Curso de Home Office - Importância da alimentação pré e pós-treino.
+- Tarde: Treino em grupo - Corrida com obstáculos e técnica de corrida.
+
+**Quinta-feira:**
+- Manhã: Treino individual - Corrida em diferentes ritmos.
+- Tarde: Apoio psicológico - Sessões individuais para lidar com a ansiedade e estresse.
+
+**Sexta-feira:**
+- Manhã: Treino em grupo - Simulação da corrida de São Silvestre.
+- Tarde: Descanso e roteiro cultural em São Paulo - Visitas a pontos turísticos.
+
+**Sábado:**
+- Manhã: Treino em grupo - Corrida leve e relaxamento.
+- Tarde: Descanso e recuperação - Sessões de alongamento e yoga.
+
+**Domingo:**
+- Manhã: Treino individual ou em grupo - Corrida em subidas e descidas.
+- Tarde: Descanso e lazer - Momento de descontração e interação social.
+
+**Cardápio Semanal:**
+
+*Setembro a Dezembro de 2023*
+
+O cardápio será preparado por nutricionistas especializados e se manterá similar ao anteriormente detalhado, garantindo uma alimentação saudável e balanceada para todos os atletas PopRua.
+
+**Vitaminas Pré e Pós-Treino:**
+
+*Setembro a Dezembro de 2023*
+
+Os atletas receberão suplementos vitamínicos adequados às suas necessidades individuais, visando fornecer energia e auxiliar na recuperação após os treinos.
+
+**Roteiro Cultural em São Paulo:**
+
+*Setembro a Dezembro de 2023*
+
+Os atletas terão oportunidades de conhecer pontos turísticos e culturais de São Paulo, como museus, parques, e atividades culturais diversas. Isso possibilitará um maior engajamento com a cidade e a integração com a cultura local.
+
+**Uniforme e Recursos para Treino:**
+
+*Setembro a Dezembro de 2023*
+
+Todos os atletas receberão uniformes adequados para treinamento, incluindo roupas esportivas, tênis de corrida de qualidade, meias, bonés e mochilas esportivas para transporte de equipamentos.
+
+**Apoio Psicológico:**
+
+*Setembro a Dezembro de 2023*
+
+A equipe técnica incluirá psicólogos para fornecer apoio emocional e estratégias de enfrentamento do estresse e pressão durante o treinamento e competições.
+
+**Detalhe da Rede de Apoio:**
+
+*Setembro a Dezembro de 2023*
+
+A rede de apoio incluirá profissionais da saúde, como fisioterapeutas e nutricionistas, além de parceiros institucionais e voluntários engajados no projeto.
+
+**Patrocínio de US$2000 Dólares Mensais:**
+
+*Setembro a Dezembro de 2023*
+
+O patrocínio de US$2000 dólares mensais será destinado para cobrir despesas com treinamentos, alimentação, hospedagem, transporte e recursos essenciais para os atletas PopRua em diferentes polos pelo Brasil.
+
+**Roteiro de Gravação para Diversos Polos de Refugiados e PopRua pelo Brasil:**
+
+*Setembro a Dezembro de 2023*
+
+Para suprir os diversos polos de refugiados e PopRua pelo Brasil, a equipe de produção de conteúdo viajará para diferentes localidades para registrar os treinamentos, depoimentos dos atletas e atividades culturais. Serão criados vídeos inspiradores que serão compartilhados nas redes sociais e plataformas do projeto, buscando engajar mais participantes.
+
+**Meta de Resultados:**
+
+*Setembro a Dezembro de 2023*
+
+- Ter 1000 corredores PopRua engajados no projeto.
+- Colocar pelo menos 300 atletas PopRua entre os 300 finalistas da corrida de São Silvestre.
+- Pelo menos 100 atletas PopRua chegando entre os 100 finalistas da corrida de São Silvestre.
+- Pelo menos 10 atletas PopRua alcançando o top 10 entre os finalistas da corrida de São Silvestre.
+
+O projeto Correndo Juntos - São Silvestre 2023 visa não só preparar os atletas para a corrida, mas também proporcionar inclusão social, saúde, alto astral e solidariedade, tornando essa jornada uma experiência transformadora para todos os envolvidos.
+
+# INFORMAÇÕES : Retirada do Kit
+
+**Datas:**
+27, 28 e 29 de dezembro - das 09h00 às 20h00
+30 de dezembro - das 09h00 às 17h00
+
+**Local:**
+Palácio das Convenções do Anhembi – Hall Nobre
+Av. Olavo Fontoura, 1.209, acesso pela entrada do Auditório Elis Regina (Santana - SP)
+
+**Para retirar o kit o atleta deverá apresentar:**
+Documento original com foto (RG, RNE, Carteira de Motorista ou Passaporte)
+Sobre retirada por terceiros, consultar o item 4.1.g do Regulamento
+
+**Importante:**
+Não haverá entrega de kit no dia e após a Prova
+
+#Kits
+
+**Kit Pelotão Geral - Feminino**
+A inscrição do Pelotão Geral contém 1 camiseta, 1 medalha e 1 sacochila.
+
+**Kit Pelotão Geral - Masculino**
+A inscrição do Pelotão Geral contém 1 camiseta, 1 medalha e 1 sacochila.
+
+**Kit Pelotão Premium - Feminino**
+**LARGUE NA FRENTE, PELOTÃO PREMIUM!**
+A inscrição do Pelotão Premium contém 1 camiseta, 1 medalha, 1 par de meias de compressão, 1 supersacochila, 1 boné, 1 corta-vento, área exclusiva de largada com número limitado de pessoas, controle de acesso entre a Elite e o Pelotão Geral, hidratação, lanche pré-Prova, sanitário exclusivo e balcão de atendimento preferencial na entrega de kit.
+
+**Kit Pelotão Premium - Masculino**
+**LARGUE NA FRENTE, PELOTÃO PREMIUM!**
+A inscrição do Pelotão Premium contém 1 camiseta, 1 medalha, 1 par de meias de compressão, 1 supersacochila, 1 boné, 1 corta-vento, área exclusiva de largada com número limitado de pessoas, controle de acesso entre a Elite e o Pelotão Geral, hidratação, lanche pré-Prova, sanitário exclusivo e balcão de atendimento preferencial na entrega de kit.
+
+**2.b**
+As inscrições são disponibilizadas pela FCL através do site **www.saosilvestre.com.br**
+e realizadas pela TICKET SPORTS, especializada na comercialização de inscrições de
+eventos esportivos, através do site **www.ticketsports.com.br** ou aplicativo (APP) da
+TICKET SPORTS disponível nas principais lojas de aplicativos.
+
+https://www.gazetaesportiva.com/sao-silvestre/regulamento/
+
+https://static.gazetaesportiva.com/saosilvestre/regulamento.pdf
