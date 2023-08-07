@@ -60,38 +60,61 @@ Artigo 10º - O Projeto "Correndo Juntos São Silvestre 2023 a 2033" terá dura�
 
 > Artigo 11º - Os casos omissos neste Estatuto serão resolvidos pela equipe gestora do Projeto.
 
-**São Paulo, 06 de Agosto de 2023.**
 
-**Conselho by nasdaq boarde diversity**
->- Presidente, Zeh Sobrinnho
->- Artesão, Devop
->- 
->- Conselheiro: Rafael Souza - Acompanhante comunitário na empresa ASF - Associação Saúde da Família de Maio de 2020 até o presente
->- Estudou auxiliar técnico de enfermagem na instituição de ensino Grau Técnico Brasil
->  
->- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
-- Conselheiro:
->- Conselheiro:
 
 **Board by nasdaq board diversity**
->- Estratégico
-- RI
-- Tático
->- Operacional
+# Equipe Completa - Projeto "Correndo Juntos São Silvestre 2023 a 2033"
 
-**- Patrocinadores**
-- roupas esportivas
-- suplementos alimentares
-- alientação
+## Time de Gestão e Coordenação:
+1. **Presidente:** Zeh Sobrinnho (Líder do projeto)
+2. **Artesão:** Devop (Vice-presidente e responsável pelas operações)
+3. **Conselheiro:** Rafael Souza (Acompanhante comunitário e representante da instituição ASF - Associação Saúde da Família)
+4. >- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+- Conselheiro:
+>- Conselheiro:
+
+## Time de Coordenação Operacional:
+1. **Gerente de Projetos:** Responsável por coordenar todas as atividades e garantir a execução eficiente do projeto.
+2. **Coordenador de Recrutamento e Seleção:** Encarregado de selecionar os 10.000 atletas participantes, incluindo refugiados locais e estrangeiros interessados.
+3. **Coordenador de Treinamento:** Responsável por elaborar e implementar o plano de treinamento semanal para os atletas.
+4. **Coordenador de Logística:** Encarregado de providenciar recursos e equipamentos essenciais para os atletas, incluindo hospedagem e alimentação durante o evento.
+5. **Coordenador de Parcerias e Patrocínios:** Responsável por estabelecer parcerias com empresas e instituições para obtenção de patrocínios e apoio ao projeto.
+6. **Coordenador de Eventos Culturais e Sociais:** Encarregado de proporcionar atividades culturais e sociais para integração dos participantes e voluntários.
+
+## Time de Finanças e Contabilidade:
+1. **Controller Financeiro:** Responsável pelo controle financeiro do projeto, acompanhamento de receitas e despesas, e elaboração de relatórios financeiros.
+2. **Analista Financeiro:** Auxiliar do controller, responsável por analisar e processar as transações financeiras do projeto.
+
+## Time de Marketing e Comunicação:
+1. **Gerente de Marketing:** Responsável por desenvolver e executar estratégias de marketing para promover o projeto e atrair patrocinadores e doadores.
+2. **Especialista em Comunicação:** Encarregado de gerir a comunicação externa e interna do projeto, incluindo o contato com a imprensa e as redes sociais.
+
+## Time de Saúde e Bem-Estar:
+1. **Médico Responsável:** Encarregado de garantir a saúde e bem-estar dos atletas durante o treinamento e o evento.
+2. **Equipe de Profissionais de Saúde:** Incluindo fisioterapeutas, nutricionistas e psicólogos, para fornecer suporte e cuidado aos atletas.
+
+## Time de Voluntários e Apoiadores:
+1. **Coordenador de Voluntários:** Responsável por recrutar e coordenar a equipe de voluntários que irão auxiliar no projeto.
+2. **Representantes de Instituições Parceiras:** ACNUR, CSEM e outras instituições envolvidas com a população refugiada.
+
+## Time de Produção e Logística de Produtos "DigitaldaRua™":
+1. **Gerente de Produção:** Responsável por coordenar a produção e venda de produtos relacionados ao projeto, como roupas esportivas e suplementos alimentares.
+
+*Lembrando que cada membro do time terá responsabilidades específicas e trabalhará em conjunto para alcançar os objetivos do projeto. Além disso, o envolvimento de voluntários e apoio de instituições parceiras será crucial para o sucesso da iniciativa.*
+
+
+**- Patrocinadores locais e globais**
+
+- alimentação
 - hospedageam
 - transporte
 - feetness
@@ -100,3 +123,5 @@ Artigo 10º - O Projeto "Correndo Juntos São Silvestre 2023 a 2033" terá dura�
 **- Balanço IRFS**
 
 **ODS 3** - 🎯 Saúde e Bem-Estar
+
+**São Paulo, 06 de Agosto de 2023.**
