@@ -63,10 +63,12 @@ Artigo 10º - O Projeto "Correndo Juntos São Silvestre 2023 a 2033" terá dura�
 **São Paulo, 06 de Agosto de 2023.**
 
 **Conselho by nasdaq boarde diversity**
-
->Presidente, Zeh Sobrinnho
->Conselheiro: Rafael Souza - Acompanhante comunitário na empresa ASF - Associação Saúde da Família de Maio de 2020 até o presente
->Estudou auxiliar técnico de enfermagem na instituição de ensino Grau Técnico Brasil
+>- Presidente, Zeh Sobrinnho
+>- Artesão, Devop
+>- 
+>- Conselheiro: Rafael Souza - Acompanhante comunitário na empresa ASF - Associação Saúde da Família de Maio de 2020 até o presente
+>- Estudou auxiliar técnico de enfermagem na instituição de ensino Grau Técnico Brasil
+>  
 >- Conselheiro:
 - Conselheiro:
 - Conselheiro:
