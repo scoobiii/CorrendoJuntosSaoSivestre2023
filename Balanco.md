@@ -87,3 +87,9 @@ Indicadores Sociais:
 ```
 
 Lembrando que esses valores são estimativas e podem variar ao longo do tempo. A gestão do projeto deve acompanhar de perto o desempenho financeiro e social, realizar ajustes conforme necessário e realizar relatórios regulares para comunicar o progresso às partes interessadas. Além disso, é fundamental contar com o auxílio de especialistas financeiros e sociais para garantir a precisão das projeções e a sustentabilidade do projeto ao longo dos anos.
+
+**Time de Finanças e Contabilidade:**
+Controller Financeiro: Responsável pelo controle financeiro do projeto, acompanhamento de receitas e despesas, e elaboração de relatórios financeiros.
+Analista Financeiro: Auxiliar do controller, responsável por analisar e processar as transações financeiras do projeto.
+
+São Paulo,  06 de Agosto de 2023
