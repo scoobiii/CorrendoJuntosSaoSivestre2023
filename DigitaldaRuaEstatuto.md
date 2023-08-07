@@ -94,7 +94,7 @@ Artigo 10º - O Projeto "Correndo Juntos São Silvestre 2023 a 2033" terá dura�
 - alientação
 - hospedageam
 - transporte
-- feetnes
+- feetness
 - turismo
 
 **- Balanço IRFS**
